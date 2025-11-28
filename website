@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Discover Bhutan Baccalaureate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #336633;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #228822;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 1.5rem;
+            max-width: 900px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            background-color: #336633;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: sticky;
+            bottom: 0;
+            width: 100%;
+            margin-top: 2rem;
+        }
+        h2 {
+            color: #224422;
+            border-bottom: 2px solid #336633;
+            padding-bottom: 0.3rem;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Bhutan Baccalaureate</h1>
+        <p>Experiences I had in TRA(The Royal Academy)</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#places">Places I had visited</a>
+        <a href="#Learning Experiences">Learning Experiences</a>
+        <a href="#about">About</a>
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>The Royal Academy (TRA) is a co-educational, residential school with students from Grades 7 to 12. The objective of The Royal Academy is to stand out as a school of excellence, offering high-quality, wholistic education to its students, particularly those from the marginalised sections of society. The Royal Academy aims to create a student community that is balanced and diverse in terms of national character and cultural experience and has representation from all 20 Dzongkhags. As of 2025, The Royal Academy has a total of 334 students.
+
+</p>
+         <img src=https://images.squarespace-cdn.com/content/v1/68b41787b0ee6a1df9470c7d/83a36f99-0034-4452-ae5b-4d6dd87b9311/IMG_0817.jpg" alt="students" style="width:500px;height:400px;">
+    <P>Picture credit: Google</P>
+        </section>
+        <section id="places">
+            <h2>Places I had Visited</h2>
+            <ul>
+                <li><strong>Paro Taktsang (Tiger's Nest Monastery)</strong> - Cliffside Buddhist monastery and iconic symbol of Bhutan.</li>
+                <img src="https://www.esikkimtourism.in/wp-content/uploads/2019/10/how-to-reach-paro-takshgang-1.jpg" alt="paro taktsang"width="500" height="300">
+                <P> Picture Credit: Bhutan tourism</P>
+                <br>
+                <br>
+                <li><strong>Punakha Dzong</strong> - A beautiful fortress and one of the most historic dzongs in Bhutan.</li>
+                <img src="https://www.bhutanpeacefultour.com/wp-content/uploads/2019/02/PUNAKH1.jpg" alt="punakha Dzong" width="500" height="300">
+                 <P>Picture credit: Bhutan peaceful tour and treks</P>
+                 <br>
+                <br>
+                <li><strong>Bumthang</strong> - Bumthang, located in central Bhutan, is renowned as the spiritual heartland of the country, where Buddhism was first introduced. It consists of four main valleys and is home to many ancient temples and monasteries, including sites associated with the Buddhist saint Guru Rinpoche and Pema Lingpa. </li>
+                <img src="https://bhutanpilgrimage.com/wp-content/uploads/2021/08/Thowadra-Monastery.jpg" alt="thowa dra" width="500" height="300">
+                 <P>Picture credit: Bhutan Pilgrimage<P>
+                 <br>
+                <br>
+                <li><strong>Dochula Pass</strong> - Mountain pass with stunning views and 108 memorial chortens.</liwidth="500" height="300">
+                <img src="https://bhutanpilgrimage.com/wp-content/uploads/2025/06/Druk-Wangyal-Chortens-the-108-Memorial-Stupas-at-Dochula-Pass.jpg.webp" alt="dochula" width="500" height="400">
+                <P>Picture credit: Bhutan Pilgrimage</P>
+                <br>
+                <br>
+                <li><strong>Phobjikha Valley</strong> - Glacial valley known for the rare black-necked cranes.</li>
+                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/de/01/0d/visit-phobjikha-valley.jpg?w=700&h=-1&s=1" alt="phobjikha valley" width="500" height="400">
+                <P>Picture credit: Tripadvisor</P>
+            </ul>
+        </section>
+        <section id="Learning Experiences">
+            <h2>Learning Experiences</h2>
+            <p>1.Cross-Domain Learning : Students engage in learning that combines different fields such as Sports, Aesthetics, and Technology. This cross-pollination of ideas helps students gain a broader understanding of topics.
+<br><br>
+2.Community Engagement : Students participate in activities like community learning, webinars, and interactions with local schools. This helps them apply their learning in real-world contexts.
+<br><br>
+3.Internships and Self-Directed Learning : Opportunities for internships and self-curated learning allow students to explore their interests deeply and gain practical experience.
+<br><br>
+4.Nature Retreats and Sports Activities : These experiences are part of the holistic development approach, emphasizing physical health and connection to nature.
+<br><br>
+5.The "7 Gifts" Initiative : This platform allows students to showcase their knowledge and learn from the experiences of their peers, fostering a collaborative learning environment.</p>
+        </section>
+        <ul>
+        <section id="about">
+            <h2>About</h2>
+            <p>Bhutan, the Kingdom of the Thunder Dragon, is a land of breathtaking natural beauty, rich culture, and ancient traditions. Nestled in the Himalayas, Bhutan offers serene landscapes, historic monasteries, and a unique way of life centered on Gross National Happiness.</p>
+         <img src="https://images.squarespace-cdn.com/content/v1/68b41787b0ee6a1df9470c7d/eec8831e-52ce-4188-9579-125b3f73bf7c/DJI_0279_2.jpg" alt="a dzong" style="width:500px;height:400px;">
+    <P>Picture credit: Google</P>
+        </section>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2025 Explore Bhutan. </p>
+    </footer>
+</body>
+</html>
+
