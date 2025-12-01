@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
+  <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Discover Bhutan Baccalaureate</title>
     <style>
@@ -69,9 +69,9 @@
     </header>
     <nav>
         <a href="#home">Home</a>
-        <a href="#places">Places I had visited</a>
+        <a href="#Mentor-Mentee">Mentor-Mentee</a>
         <a href="#Learning Experiences">Learning Experiences</a>
-        <a href="#about">About</a>
+        <a href="#about me">About me</a>
     </nav>
     <main>
         <section id="home">
@@ -79,61 +79,75 @@
             <p>The Royal Academy (TRA) is a co-educational, residential school with students from Grades 7 to 12. The objective of The Royal Academy is to stand out as a school of excellence, offering high-quality, wholistic education to its students, particularly those from the marginalised sections of society. The Royal Academy aims to create a student community that is balanced and diverse in terms of national character and cultural experience and has representation from all 20 Dzongkhags. As of 2025, The Royal Academy has a total of 334 students.
 
 </p>
-         <img src=https://images.squarespace-cdn.com/content/v1/68b41787b0ee6a1df9470c7d/83a36f99-0034-4452-ae5b-4d6dd87b9311/IMG_0817.jpg" alt="students" style="width:500px;height:400px;">
+         <img src=https://images.squarespace-cdn.com/content/v1/68b41787b0ee6a1df9470c7d/83a36f99-0034-4452-ae5b-4d6dd87b9311/IMG_0817.jpg" alt="students" style="width:900px;height:700px;">
     <P>Picture credit: Google</P>
         </section>
-        <section id="places">
-            <h2>Places I had Visited</h2>
+        <section id="Mentor-Mentee">
+            <h2>Mentor-Mentee</h2>
             <ul>
-                <li><strong>Paro Taktsang (Tiger's Nest Monastery)</strong> - Cliffside Buddhist monastery and iconic symbol of Bhutan.</li>
-                <img src="https://www.esikkimtourism.in/wp-content/uploads/2019/10/how-to-reach-paro-takshgang-1.jpg" alt="paro taktsang"width="500" height="300">
-                <P> Picture Credit: Bhutan tourism</P>
-                <br>
-                <br>
-                <li><strong>Punakha Dzong</strong> - A beautiful fortress and one of the most historic dzongs in Bhutan.</li>
-                <img src="https://www.bhutanpeacefultour.com/wp-content/uploads/2019/02/PUNAKH1.jpg" alt="punakha Dzong" width="500" height="300">
-                 <P>Picture credit: Bhutan peaceful tour and treks</P>
-                 <br>
-                <br>
-                <li><strong>Bumthang</strong> - Bumthang, located in central Bhutan, is renowned as the spiritual heartland of the country, where Buddhism was first introduced. It consists of four main valleys and is home to many ancient temples and monasteries, including sites associated with the Buddhist saint Guru Rinpoche and Pema Lingpa. </li>
-                <img src="https://bhutanpilgrimage.com/wp-content/uploads/2021/08/Thowadra-Monastery.jpg" alt="thowa dra" width="500" height="300">
-                 <P>Picture credit: Bhutan Pilgrimage<P>
-                 <br>
-                <br>
-                <li><strong>Dochula Pass</strong> - Mountain pass with stunning views and 108 memorial chortens.</liwidth="500" height="300">
-                <img src="https://bhutanpilgrimage.com/wp-content/uploads/2025/06/Druk-Wangyal-Chortens-the-108-Memorial-Stupas-at-Dochula-Pass.jpg.webp" alt="dochula" width="500" height="400">
-                <P>Picture credit: Bhutan Pilgrimage</P>
-                <br>
-                <br>
-                <li><strong>Phobjikha Valley</strong> - Glacial valley known for the rare black-necked cranes.</li>
-                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/de/01/0d/visit-phobjikha-valley.jpg?w=700&h=-1&s=1" alt="phobjikha valley" width="500" height="400">
-                <P>Picture credit: Tripadvisor</P>
+                <li><strong>Mentorship</strong> - In the Bhutan Baccalaureate, I’ve experienced how important mentorship is. My mentor and I along with my co-mentees have built a trusting, supportive relationship where we learn from each other. Through our time together, I receive guidance in both my academic and personal growth, and it created a strong sense of community between us working toward shared goals.</li>
+                
+<br>
+<iframe src="https://drive.google.com/file/d/1UVU7EA4kgybfsszCQoueqt0OFro_uNIi/preview" width="880" height="580" allow="autoplay"></iframe>               
+  <br><p>Picture credit: Sangay Wangchuk
+             
+              
             </ul>
         </section>
         <section id="Learning Experiences">
             <h2>Learning Experiences</h2>
             <p>1.Cross-Domain Learning : Students engage in learning that combines different fields such as Sports, Aesthetics, and Technology. This cross-pollination of ideas helps students gain a broader understanding of topics.
+<br>
+
 <br><br>
-2.Community Engagement : Students participate in activities like community learning, webinars, and interactions with local schools. This helps them apply their learning in real-world contexts.
-<br><br>
-3.Internships and Self-Directed Learning : Opportunities for internships and self-curated learning allow students to explore their interests deeply and gain practical experience.
-<br><br>
+
+
+2.Extra curricular activities : Students participate in activities like sports, aesthetics, and have to take five areas of development as their domain enhancing creativity and fitness and not only that developing both emotionally and physically.
+<br>
+<br>
+3. Learning Experience Outside Classroom: Opportunities for learning experiences oustside allow students to explore their interests deeply and gain a sense of connectedness with nature and beyond the classroom.
+<br>
+<iframe src="https://drive.google.com/file/d/1j0iOIeBPLN4o86lIX1R0WGAN5GZG_UG2/preview" width="405" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vTPLkxJJ3meB9rFOB2UOB49aFvraORfE/preview" width="405" height="400" allow="autoplay"></iframe>
+<br>
+<span style="padding-right:450px;">Dobji Dzong</span>Ta Dzong
+<br>
+<iframe src="https://drive.google.com/file/d/1chix30lLKj-w3nZydmchEZ5JFkvR9FY9/preview" width="405" height="400" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1X5HMYE3onxswqRdUy_Pe0X0qnxaroJ4d/preview" width="405" height="400" allow="autoplay"></iframe>
+<br>
+<span style="padding-right:450px;">Paro Taktsang</span>Punakha Dzong
+<br>
+<p>Picture credit : Sangay Wangchuk<p>
+
+<br>
 4.Nature Retreats and Sports Activities : These experiences are part of the holistic development approach, emphasizing physical health and connection to nature.
 <br><br>
+
+<iframe src="https://drive.google.com/file/d/1zuAw-4yxbSDvwz6aRiDLzDjkm-JcPe8C/preview" width="405" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/15WaODGGwwlRxrplDdC3h1m0cP158Im-p/preview" width="405" height="400" allow="autoplay"></iframe>
+<br>
+<span style="padding-right:250px;">Black necked-crane centre</span>Phobjikha Central School(Basketball Court)
+<br>
+<p>Picture credit: Sangay Wangchuk
+<br>
+<br>
 5.The "7 Gifts" Initiative : This platform allows students to showcase their knowledge and learn from the experiences of their peers, fostering a collaborative learning environment.</p>
         </section>
         <ul>
-        <section id="about">
-            <h2>About</h2>
-            <p>Bhutan, the Kingdom of the Thunder Dragon, is a land of breathtaking natural beauty, rich culture, and ancient traditions. Nestled in the Himalayas, Bhutan offers serene landscapes, historic monasteries, and a unique way of life centered on Gross National Happiness.</p>
-         <img src="https://images.squarespace-cdn.com/content/v1/68b41787b0ee6a1df9470c7d/eec8831e-52ce-4188-9579-125b3f73bf7c/DJI_0279_2.jpg" alt="a dzong" style="width:500px;height:400px;">
-    <P>Picture credit: Google</P>
+        <section id="about me">
+            <h2>About me</h2>
+            <p>My name is Kinzang Choden, and I am currently studying in the ninth grade. I am from Mongar, a place that has played an important role in shaping my personality and values. In my family, I have three siblings including me, and I am the eldest one. Being the oldest has taught me responsibility, patience, and the importance of setting a good example for my younger siblings.
+
+During my free time, I enjoy reading, writing, drawing, and painting. These hobbies allow me to express my creativity and explore new ideas. </p> 
+       <div style="text-align: center;">
+       <iframe src="https://drive.google.com/file/d/18YEMOa0ntwXqgumCphP4LxdtD5F1rvYq/preview" width="640" height="480" allow="autoplay"></iframe>
+       <P>Picture : Me</P>
         </section>
         </ul>
     </main>
     <footer>
-        <p>&copy; 2025 Explore Bhutan. </p>
+        <p>&copy; 2025 Explore Bhutan Baccalaureate. </p>
     </footer>
 </body>
 </html>
-
